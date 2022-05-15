@@ -1,0 +1,102 @@
+11-07 15:20 - com.shiku.mianshi.Application Starting Application on DESKTOP-SP3IK4C with PID 61656 (E:\kuliao\mianshi-parent\mianshi-im-api\target\classes started by a in E:\kuliao\mianshi-parent)
+11-07 15:20 - com.shiku.mianshi.Application No active profile set, falling back to default profiles: default
+11-07 15:20 - org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8092"]
+11-07 15:20 - org.apache.catalina.core.StandardService Starting service Tomcat
+11-07 15:20 - org.apache.catalina.core.StandardEngine Starting Servlet Engine: Apache Tomcat/8.5.13
+11-07 15:20 - org.apache.catalina.core.AprLifecycleListener The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_152\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;F:\vmware\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\DataBase\mysql-8.0.15-winx64\bin\;F:\redis\;E:\erl9.3\bin;C:\Program Files\nodejs\;E:\apache-maven-3.5.3\bin;F:\rocketmq\bin;E:\gradle-6.8\bin;C:\Program Files\Java\jdk-11.0.12\bin;C:\Program Files\Java\jdk-11.0.12\jre\bin; ;D:\VSCode\bin;C:\Users\a\AppData\Roaming\npm;.
+11-07 15:20 - org.apache.jasper.servlet.TldScanner At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-07 15:20 - o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+11-07 15:21 - org.apache.catalina.core.StandardService Stopping service Tomcat
+11-07 15:22 - com.shiku.mianshi.Application Starting Application on DESKTOP-SP3IK4C with PID 35412 (E:\kuliao\mianshi-parent\mianshi-im-api\target\classes started by a in E:\kuliao\mianshi-parent)
+11-07 15:22 - com.shiku.mianshi.Application No active profile set, falling back to default profiles: default
+11-07 15:22 - org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8092"]
+11-07 15:22 - org.apache.catalina.core.StandardService Starting service Tomcat
+11-07 15:22 - org.apache.catalina.core.StandardEngine Starting Servlet Engine: Apache Tomcat/8.5.13
+11-07 15:22 - org.apache.catalina.core.AprLifecycleListener The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_152\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;F:\vmware\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\DataBase\mysql-8.0.15-winx64\bin\;F:\redis\;E:\erl9.3\bin;C:\Program Files\nodejs\;E:\apache-maven-3.5.3\bin;F:\rocketmq\bin;E:\gradle-6.8\bin;C:\Program Files\Java\jdk-11.0.12\bin;C:\Program Files\Java\jdk-11.0.12\jre\bin; ;D:\VSCode\bin;C:\Users\a\AppData\Roaming\npm;.
+11-07 15:22 - org.apache.jasper.servlet.TldScanner At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-07 15:22 - o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+11-07 15:22 - org.apache.catalina.core.StandardService Stopping service Tomcat
+11-07 15:23 - com.shiku.mianshi.Application Starting Application on DESKTOP-SP3IK4C with PID 61608 (E:\kuliao\mianshi-parent\mianshi-im-api\target\classes started by a in E:\kuliao\mianshi-parent)
+11-07 15:23 - com.shiku.mianshi.Application No active profile set, falling back to default profiles: default
+11-07 15:23 - org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8092"]
+11-07 15:23 - org.apache.catalina.core.StandardService Starting service Tomcat
+11-07 15:23 - org.apache.catalina.core.StandardEngine Starting Servlet Engine: Apache Tomcat/8.5.13
+11-07 15:23 - org.apache.catalina.core.AprLifecycleListener The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_152\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;F:\vmware\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\DataBase\mysql-8.0.15-winx64\bin\;F:\redis\;E:\erl9.3\bin;C:\Program Files\nodejs\;E:\apache-maven-3.5.3\bin;F:\rocketmq\bin;E:\gradle-6.8\bin;C:\Program Files\Java\jdk-11.0.12\bin;C:\Program Files\Java\jdk-11.0.12\jre\bin; ;D:\VSCode\bin;C:\Users\a\AppData\Roaming\npm;.
+11-07 15:23 - org.apache.jasper.servlet.TldScanner At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-07 15:23 - o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+11-07 15:24 - org.apache.catalina.core.StandardService Stopping service Tomcat
+11-07 15:27 - com.shiku.mianshi.Application Starting Application on DESKTOP-SP3IK4C with PID 56584 (E:\kuliao\mianshi-parent\mianshi-im-api\target\classes started by a in E:\kuliao\mianshi-parent)
+11-07 15:27 - com.shiku.mianshi.Application No active profile set, falling back to default profiles: default
+11-07 15:27 - org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8092"]
+11-07 15:27 - org.apache.catalina.core.StandardService Starting service Tomcat
+11-07 15:27 - org.apache.catalina.core.StandardEngine Starting Servlet Engine: Apache Tomcat/8.5.13
+11-07 15:27 - org.apache.catalina.core.AprLifecycleListener The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_152\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;F:\vmware\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\DataBase\mysql-8.0.15-winx64\bin\;F:\redis\;E:\erl9.3\bin;C:\Program Files\nodejs\;E:\apache-maven-3.5.3\bin;F:\rocketmq\bin;E:\gradle-6.8\bin;C:\Program Files\Java\jdk-11.0.12\bin;C:\Program Files\Java\jdk-11.0.12\jre\bin; ;D:\VSCode\bin;C:\Users\a\AppData\Roaming\npm;.
+11-07 15:27 - org.apache.jasper.servlet.TldScanner At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-07 15:27 - o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+11-07 15:27 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 15:27 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 15:27 - org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8092"]
+11-07 15:27 - org.apache.tomcat.util.net.NioSelectorPool Using a shared selector for servlet write/read
+11-07 15:27 - com.shiku.mianshi.Application Started Application in 13.288 seconds (JVM running for 14.356)
+11-07 15:27 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 15:27 - com.shiku.mianshi.Application 启动成功  当前版本编译时间  =====》 null
+11-07 15:27 - o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring FrameworkServlet 'dispatcherServlet'
+11-07 15:27 - com.shiku.mianshi.filter.AuthorizationFilter GET 请求：/pages/console/index.html
+11-07 15:28 - com.shiku.mianshi.filter.AuthorizationFilter GET 请求：/pages/console
+11-07 15:28 - com.shiku.mianshi.filter.AuthorizationFilter GET 请求：/pages/console
+11-07 15:28 - com.shiku.mianshi.filter.AuthorizationFilter GET 请求：/pages/console
+11-07 15:30 - cn.xyz.mianshi.scheduleds.CommTask 刷新用户状态统计======》 2
+11-07 15:35 - cn.xyz.mianshi.scheduleds.CommTask 刷新用户状态统计======》 2
+11-07 15:40 - cn.xyz.mianshi.scheduleds.CommTask 刷新用户状态统计======》 3
+11-07 15:41 - com.shiku.mianshi.filter.AuthorizationFilter GET 请求：/config
+11-07 15:41 - com.shiku.mianshi.SysApiLogAspect 请求参数： /config
+11-07 15:41 - com.shiku.mianshi.SysApiLogAspect 客户端ip [192.168.159.1]  User-Agent okhttp/3.2.0 
+11-07 15:41 - com.shiku.mianshi.SysApiLogAspect 【com.shiku.mianshi.controller.BasicController】类的【getConfig】方法
+11-07 15:41 - controller ==Client-IP===>  192.168.159.1  ===Address==>  CN 
+11-07 15:41 - com.shiku.mianshi.SysApiLogAspect 接口【getConfig】总耗时(毫秒)：359
+11-07 15:41 - com.shiku.mianshi.SysApiLogAspect ********************************************   
+11-07 15:41 - com.shiku.mianshi.filter.AuthorizationFilter GET 请求：/pages/privacyPolicy.html
+11-07 15:41 - com.shiku.mianshi.filter.AuthorizationFilter GET 请求：/config
+11-07 15:41 - com.shiku.mianshi.SysApiLogAspect 请求参数： /config
+11-07 15:41 - com.shiku.mianshi.SysApiLogAspect 客户端ip [192.168.159.1]  User-Agent okhttp/3.2.0 
+11-07 15:41 - com.shiku.mianshi.SysApiLogAspect 【com.shiku.mianshi.controller.BasicController】类的【getConfig】方法
+11-07 15:41 - controller ==Client-IP===>  192.168.159.1  ===Address==>  CN 
+11-07 15:41 - com.shiku.mianshi.SysApiLogAspect 接口【getConfig】总耗时(毫秒)：5
+11-07 15:41 - com.shiku.mianshi.SysApiLogAspect ********************************************   
+11-07 15:42 - com.shiku.mianshi.filter.AuthorizationFilter GET 请求：/config
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 请求参数： /config
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 客户端ip [192.168.159.1]  User-Agent okhttp/3.2.0 
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 【com.shiku.mianshi.controller.BasicController】类的【getConfig】方法
+11-07 15:42 - controller ==Client-IP===>  192.168.159.1  ===Address==>  CN 
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 接口【getConfig】总耗时(毫秒)：5
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect ********************************************   
+11-07 15:42 - com.shiku.mianshi.filter.AuthorizationFilter GET 请求：/config
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 请求参数： /config
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 客户端ip [192.168.159.1]  User-Agent okhttp/3.2.0 
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 【com.shiku.mianshi.controller.BasicController】类的【getConfig】方法
+11-07 15:42 - controller ==Client-IP===>  192.168.159.1  ===Address==>  CN 
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 接口【getConfig】总耗时(毫秒)：4
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect ********************************************   
+11-07 15:42 - com.shiku.mianshi.filter.AuthorizationFilter GET 请求：/config
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 请求参数： /config
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 客户端ip [192.168.159.1]  User-Agent okhttp/3.2.0 
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 【com.shiku.mianshi.controller.BasicController】类的【getConfig】方法
+11-07 15:42 - controller ==Client-IP===>  192.168.159.1  ===Address==>  CN 
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect 接口【getConfig】总耗时(毫秒)：4
+11-07 15:42 - com.shiku.mianshi.SysApiLogAspect ********************************************   
+11-07 15:44 - com.shiku.mianshi.Application Starting Application on DESKTOP-SP3IK4C with PID 56236 (E:\kuliao\mianshi-parent\mianshi-im-api\target\classes started by a in E:\kuliao\mianshi-parent)
+11-07 15:44 - com.shiku.mianshi.Application No active profile set, falling back to default profiles: default
+11-07 15:44 - org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8092"]
+11-07 15:44 - org.apache.catalina.core.StandardService Starting service Tomcat
+11-07 15:44 - org.apache.catalina.core.StandardEngine Starting Servlet Engine: Apache Tomcat/8.5.13
+11-07 15:44 - org.apache.catalina.core.AprLifecycleListener The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_152\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;F:\vmware\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;C:\DataBase\mysql-8.0.15-winx64\bin\;F:\redis\;E:\erl9.3\bin;C:\Program Files\nodejs\;E:\apache-maven-3.5.3\bin;F:\rocketmq\bin;E:\gradle-6.8\bin;C:\Program Files\Java\jdk-11.0.12\bin;C:\Program Files\Java\jdk-11.0.12\jre\bin; ;D:\VSCode\bin;C:\Users\a\AppData\Roaming\npm;.
+11-07 15:44 - org.apache.jasper.servlet.TldScanner At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-07 15:44 - o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+11-07 15:44 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 15:44 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 15:44 - org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8092"]
+11-07 15:44 - org.apache.tomcat.util.net.NioSelectorPool Using a shared selector for servlet write/read
+11-07 15:44 - com.shiku.mianshi.Application Started Application in 17.661 seconds (JVM running for 19.013)
+11-07 15:44 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 15:44 - com.shiku.mianshi.Application 启动成功  当前版本编译时间  =====》 null
+11-07 15:45 - cn.xyz.mianshi.scheduleds.CommTask 刷新用户状态统计======》 2

@@ -1,0 +1,122 @@
+11-07 15:47 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 44588 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 15:47 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 15:47 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 15:47 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 15:47 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 18.78 seconds (JVM running for 19.866)
+11-07 15:47 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 15:47 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 15:48 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 20656 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 15:48 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 15:48 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 15:48 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 15:48 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 20.84 seconds (JVM running for 22.162)
+11-07 15:48 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 15:49 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 15:49 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 45240 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 15:49 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 15:49 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 15:49 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 15:49 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 18.84 seconds (JVM running for 20.037)
+11-07 15:49 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 15:49 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 15:52 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 57560 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 15:52 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 15:52 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 15:52 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 15:52 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 18.888 seconds (JVM running for 19.992)
+11-07 15:52 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 15:54 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 15:54 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 55720 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 15:54 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 15:54 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 15:54 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 15:54 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 20.571 seconds (JVM running for 22.093)
+11-07 15:54 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 15:55 - cn.xyz.mianshi.scheduleds.CommTask 刷新用户状态统计======》 2
+11-07 15:55 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 15:55 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 43996 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 15:55 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 15:55 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 15:56 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 15:56 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 19.376 seconds (JVM running for 20.518)
+11-07 15:56 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 15:59 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 15:59 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 55492 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 15:59 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 15:59 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 15:59 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 15:59 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 19.458 seconds (JVM running for 20.595)
+11-07 15:59 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 16:01 - RocketmqRemoting closeChannel: close the connection to remote address[192.168.166.102:9876] result: true
+11-07 16:01 - RocketmqRemoting closeChannel: close the connection to remote address[192.168.166.102:10911] result: true
+11-07 16:01 - RocketmqRemoting closeChannel: close the connection to remote address[192.168.166.102:10911] result: true
+11-07 16:01 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 45572 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 16:01 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 16:02 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 16:02 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 16:02 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 20.475 seconds (JVM running for 21.662)
+11-07 16:02 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 16:05 - RocketmqRemoting closeChannel: close the connection to remote address[192.168.166.102:9876] result: true
+11-07 16:05 - RocketmqRemoting closeChannel: close the connection to remote address[192.168.166.102:10911] result: true
+11-07 16:05 - RocketmqRemoting closeChannel: close the connection to remote address[192.168.166.102:10911] result: true
+11-07 16:05 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 30944 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 16:05 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 16:06 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 16:06 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 16:06 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 19.687 seconds (JVM running for 21.009)
+11-07 16:06 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 16:06 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 16:07 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 27088 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 16:07 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 16:07 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 16:07 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 16:07 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 19.072 seconds (JVM running for 20.236)
+11-07 16:07 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 16:07 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 16:07 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 56112 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 16:07 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 16:08 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 16:08 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 16:08 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 20.107 seconds (JVM running for 21.466)
+11-07 16:08 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 16:18 - RocketmqRemoting closeChannel: close the connection to remote address[192.168.166.102:10911] result: true
+11-07 16:18 - RocketmqRemoting closeChannel: close the connection to remote address[192.168.166.102:10911] result: true
+11-07 16:18 - cn.xyz.mianshi.scheduleds.CommTask 刷新用户状态统计======》 2
+11-07 16:18 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 16:19 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 53336 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 16:19 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 16:19 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 16:19 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 16:19 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 19.996 seconds (JVM running for 21.226)
+11-07 16:19 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 16:19 - cn.xyz.mianshi.service.impl.UserManagerImpl 1>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 16:20 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 53468 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 16:20 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 16:20 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 16:20 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 16:20 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 19.844 seconds (JVM running for 20.982)
+11-07 16:20 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 16:23 - cn.xyz.mianshi.service.impl.UserManagerImpl 1>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 16:24 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 54196 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 16:24 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 16:24 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 16:24 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 16:24 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 19.861 seconds (JVM running for 21.029)
+11-07 16:24 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 16:24 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 16:25 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 55448 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 16:25 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 16:25 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 16:25 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 16:25 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 20.032 seconds (JVM running for 21.216)
+11-07 16:25 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 16:33 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+11-07 16:33 - RocketmqRemoting closeChannel: close the connection to remote address[192.168.166.102:9876] result: true
+11-07 16:33 - RocketmqRemoting closeChannel: close the connection to remote address[192.168.166.102:9876] result: true
+11-07 16:38 - com.shiku.im.db.MongoDBTest Starting MongoDBTest on DESKTOP-SP3IK4C with PID 26348 (started by a in E:\kuliao\mianshi-parent\mianshi-im-api)
+11-07 16:38 - com.shiku.im.db.MongoDBTest No active profile set, falling back to default profiles: default
+11-07 16:38 - cn.xyz.rocketmq.UserStatusConsumer  MQ config nameAddr ===> 192.168.166.102:9876
+11-07 16:38 - cn.xyz.mianshi.scheduleds.CommTask ====定时任务开启中=======》
+11-07 16:38 - com.shiku.im.db.MongoDBTest Started MongoDBTest in 21.32 seconds (JVM running for 22.847)
+11-07 16:38 - cn.xyz.mianshi.utils.InitializationData >>>>>>>>>>>>>>> 异常信息数据初始化完成  <<<<<<<<<<<<<
+11-07 16:39 - cn.xyz.mianshi.service.impl.UserManagerImpl 0>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

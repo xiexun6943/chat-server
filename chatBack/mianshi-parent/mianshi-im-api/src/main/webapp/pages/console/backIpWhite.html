@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>后台ip白名单管理</title>
+</head>
+<link href="/pages/common/layui/css/layui.css" rel="stylesheet">
+<script type="text/javascript" src="/pages/common/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/pages/common/layui/layui.all.js"></script>
+<script type="text/javascript" src="/pages/assets/js/jquery.md5.js"></script>
+<script type="text/javascript" src="./js/common.js"></script>
+<script type="text/javascript" src="./js/console_ui.js"></script>
+<script type="text/javascript" src="/pages/console/js/backIpWhite.js"></script>
+<body>
+<div class="layui-row">
+    <div id="back" class="layui-col-md1">&nbsp;</div>
+    <input id="pageCount" type="" name="" style="display: none">
+    <div id="backIpWhiteList" class="layui-col-md10">
+        <div class="ip_black_btn_div" style="margin-top: 2%">
+            <input id="ipName" type="text" name="" class="layui-input" style="width: 15%;display: inline" placeholder="ip">
+            <button onclick="Key.findIpBlack()" class="layui-btn">搜索</button>
+<!--            <button onclick="Key.addBackIpWhite()" class="layui-btn btn_add">添加</button>-->
+        </div>
+        <div class="layui-card" style="margin-top: 1%">
+            <div class="layui-card-header">ip白名单列表</div>
+            <div class="layui-card-body">
+                <table cellspacing="0" cellpadding="0" border="0" class="layui-table" >
+                    <thead>
+                    <tr align="center">
+                        <td>ip</td>
+                        <td>创建时间</td>
+                    </tr>
+                    </thead>
+                    <tbody id="backIpWhiteList_table">
+
+                    </tbody>
+                </table>
+                <div id="laypage" class="layui-box layui-laypage layui-laypage-default">
+
+                </div>
+            </div>
+        </div>
+    </div>
+<!--    <div id="addBackIpWhite" class="layui-col-md10" style="display: none">-->
+<!--        <div class="layui-card" style="margin-top: 1%">-->
+<!--            <div class="layui-card-header">新增ip白名单</div>-->
+<!--            <input id="addKeyValue" class="layui-input" type="text" placeholder="请输入新的ip" style="width: 50%">-->
+<!--            <button onclick="Key.commit_ipBlack()" class="layui-btn" style="margin-top: 1%">提交</button>-->
+<!--            <button onclick="Key.backIpWhite_list(0)" class="layui-btn layui-btn-primary layui-btn-sm" style="margin-top: 1%">&lt;&lt;返回</button>-->
+<!--        </div>-->
+<!--    </div>-->
+</div>
+</body>
+</html>
